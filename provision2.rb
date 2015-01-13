@@ -1,3 +1,4 @@
+#spins up web servers in AWS
 require 'chef/provisioning/aws_driver'
 with_driver 'aws'
  
