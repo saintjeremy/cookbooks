@@ -1,3 +1,4 @@
+#this recipe destroys webservers stood up by chef-metal / chef-provisioning
 require 'chef/provisioning/aws_driver'
 with_driver 'aws'
  
